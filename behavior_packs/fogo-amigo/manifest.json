@@ -1,0 +1,1 @@
+{"format_version": "1.10","minecraft_name": "fogo-amigo","description": "Manifest for Fogo Amigo Behavior Pack","pack": {"pack_id": "your.unique.pack.id.behavior","version": [1, 0, 0],"min_engine_version": [1, 16, 0]},”dependencies":[{"uuid":"your.dependency.uuid","version":[1,0,0]}]}
